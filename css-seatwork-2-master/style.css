@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+
+header,footer {
+    background-color: gray;
+    color: white;
+    overflow: hidden;  
+    width: 100%;
+}
+
+div#content {
+    margin: 10px;
+}
+
+section.row {
+    background-color: yellow;
+}
+
+section.col {
+    width: 33%;
+    float: left;
+}
